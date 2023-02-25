@@ -162,6 +162,7 @@ a.cta {
 }
 a.cta:hover, .h-l-cta-pv1 a.cta:hover {
 	background: #0c8d5b;
+    color: white !important;
 }
 img.selos-cta {
     clear: both;
@@ -662,7 +663,7 @@ span.arrow-down img {
     display: grid;
     margin: inherit;
 }
-.depoimento { }
+.depoimento,
 .depoimentos-nav {
 	width: 120px;
 	text-align: center;
@@ -922,8 +923,8 @@ img.pote-unico-pv3 {
     color: #424242;
     font-weight: 400;
     font-size: 18px;
-	text-align: left !important;
-    font-size: 18px;
+	text-align: left !important; 
+    font-size: 18px;
 	margin: 15px 0;
 }
 .face-pv3, .list-face-pv3 {
